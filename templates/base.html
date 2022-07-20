@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <title>{{ title }} - Rock, Paper, Scissors</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<ul>
+    <li><a href="/">Home</a></li>
+
+</ul>
+
+<body>
+
+    <hr>
+    {% block content %}
+
+    {% endblock %}
+</body>
+
+</html>

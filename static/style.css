@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-family: url("https://fonts.google.com/specimen/Grape+Nuts?category=Handwriting&sort=date&preview.size=36;")
+}
+
+
+body {
+    margin: 50;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.rps-content {
+    width: 100%;
+    height: 0;
+    background-image: url("Rock.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 25%;
+    /* got this from https://stackoverflow.com/questions/600743/how-to-get-div-height-to-auto-adjust-to-background-size */
+}

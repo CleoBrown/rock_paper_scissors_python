@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="rps-content">
+
+  <h1>Play </h1>
+  <h1><span>Rock,</span>
+    <span>Paper,</span>
+    <span>Scissors</span>
+  </h1>
+
+  <form action="/rps" method="POST">
+    <label>Name:</label>
+    <input type="text" name="name">
+    <label>Please choose one of the following options:</label>
+    <select name="choice">
+      <option value="rock">Rock</option>
+      <option value="paper">Paper</option>
+      <option value="scissors">Scissors</option>
+    </select>
+
+    <button>Submit</button>
+  </form>
+</div>
+
+<footer>
+
+</footer>
+{% endblock %}
