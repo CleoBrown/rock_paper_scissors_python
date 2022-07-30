@@ -22,6 +22,6 @@ Create a simple flask app to allow the user to play [rock, paper, scissors](http
 flask run
 ```
 
-- Run the app on http://localhost:3000<br>
+App should be running on [localhost:3000](http://localhost:3000)
 
 
