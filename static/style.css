@@ -4,11 +4,15 @@ h1 {
     font-family: url("https://fonts.google.com/specimen/Grape+Nuts?category=Handwriting&sort=date&preview.size=36;")
 }
 
+.home-link {
+    text-align: left;
+}
 
 body {
-    margin: 50;
+    margin: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    font-size: 20px;
 }
 
 .rps-content {
