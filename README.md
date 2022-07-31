@@ -7,6 +7,8 @@ _Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and run
 ```
 docker run -p 5000:5000 --name rps_app cleobrown/rps
 ```
+App should be running on [localhost:5000](http://localhost:5000)
+
 ---
 ![Rock, Paper, Scissors](./rps_homepage.png)
 
