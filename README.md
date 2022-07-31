@@ -2,6 +2,8 @@
 
 ## Quick Start:
 
+Ensure Docker is inatalled and running
+
 ```
 docker run -p 5000:5000 --name rps_app cleobrown/rps
 ```
@@ -23,7 +25,10 @@ Create a simple flask app to allow the user to play [rock, paper, scissors](http
 - Flask<br>
 
 
-## Manual steps to run
+## Alternative manual steps to run
+
+Ensure Python and Flask are installed
+
 <br>Run:
 ```
 flask run
