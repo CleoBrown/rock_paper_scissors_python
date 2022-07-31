@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Flask App
 
-## Quick Start:
+## Quick Start
 
 _Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
 
