@@ -1,4 +1,11 @@
 # Rock, Paper, Scissors Flask App
+
+## Quick Start:
+
+```
+docker run -p 5000:5000 --name rps_app cleobrown/rps
+```
+---
 ![Rock, Paper, Scissors](./rps_homepage.png)
 
 
