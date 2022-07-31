@@ -2,7 +2,7 @@
 
 ## Quick Start:
 
-Ensure Docker is inatalled and running
+_Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
 
 ```
 docker run -p 5000:5000 --name rps_app cleobrown/rps
