@@ -27,7 +27,7 @@ Create a simple flask app to allow the user to play [rock, paper, scissors](http
 
 ## Alternative manual steps to run
 
-Ensure Python and Flask are installed
+_Ensure Python and [Flask](https://pypi.org/project/Flask/) are installed_
 
 <br>Run:
 ```
